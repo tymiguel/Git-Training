@@ -13,7 +13,7 @@ def main():
 
 if __name__ == '__main__':
     print("Program is starting... \n")
-    sleep(5)
+    sleep(3)
     main()
-    sleep(5)
+    sleep(3)
     print("\n Program is complete")

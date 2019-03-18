@@ -1,11 +1,12 @@
 # this file will have a basic function
 
+
 import datetime
 from my_package import code_sugar
 
 
 def print_time():
-    print(f"Today is {datetime.datetime.now()}")
+    print(f"(Boston, MA) Today is {datetime.datetime.now()}")
 
 
 def main():

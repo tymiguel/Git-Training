@@ -14,6 +14,6 @@ def main():
     print_time()
     code_sugar.end_program()
 
-
+# runs program like a script
 if __name__ == '__main__':
     main()

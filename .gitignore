@@ -1,0 +1,3 @@
+# ignore py_cache files
+
+my_package/__pycache__
